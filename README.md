@@ -44,7 +44,7 @@ currently_learning: Full Stack, Deployments
 
 ## 🎃 Hacktoberfest Badges
 
-<img width="1415" height="401" alt="image" src="https://github.com/user-attachments/assets/91cad42a-b8fe-4491-b3da-0f7ddda3fce9" />
+<img width="1390" height="301" alt="image" src="https://github.com/user-attachments/assets/00e6fe23-c001-4e1b-8b87-365ae30a6fca" />
 
 
 <p align="center">
